@@ -1,7 +1,4 @@
-<video width="800" height="450" controls>
-    <source src="Image.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+ <img src="image.gif" alt="Nazia Suleman GIF" width="800" height="450">
 <h1 align="center">Hi 👋, I'm Nazia Suleman</h1>
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
