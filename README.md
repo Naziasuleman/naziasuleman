@@ -1,4 +1,4 @@
- <video width="800" height="450" controls>
+ <video>
     <source src="Image.mp4" type="video/mp4">
   </video>
 <h1 align="center">Hi 👋, I'm Nazia Suleman</h1>
