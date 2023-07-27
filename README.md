@@ -3,13 +3,13 @@
 
 🔭 I am actively involved in the development of the [Real Chain World Web Project](https://github.com/Naziasuleman/real-chain-world-1)
 
-🌱 My main areas of focus include **learning JavaScript, ReactJs, NodeJs, and tackling AI challenges.**
+🌱 My main areas of focus include **JavaScript, ReactJs, NodeJs, and tackling AI challenges.**
 
 👯 I am open to collaborating on **Frontend Projects.**
 
-⚡ My UI designing portfolio can be found at [https://www.behance.net/_naziaa.](https://www.behance.net/_naziaa.)
+⚡ My UI designing portfolio  [https://www.behance.net/_naziaa.](https://www.behance.net/_naziaa.)
 
-📝 I frequently share my insights about web development on my Facebook profile: [https://www.facebook.com/profile.php?id=100094248153651](https://www.facebook.com/profile.php?id=100094248153651)
+📝 I frequently share my insights about web development on: [https://www.facebook.com/profile.php?id=100094248153651](https://www.facebook.com/profile.php?id=100094248153651)
 
 💬 Ask me about **React, JavaScript, or User Interface Designing.**
 
