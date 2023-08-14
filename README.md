@@ -1,4 +1,4 @@
- <img src="image.gif" alt="Nazia Suleman GIF" width="1000" height="330">
+
 <h1 align="center">Hi 👋, I'm Nazia Suleman</h1>
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
