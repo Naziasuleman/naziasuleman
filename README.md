@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nazia Suleman</h1>
-<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
+
 
 🔭 I am actively involved in the development of the [Real Chain World Web Project](https://github.com/Naziasuleman/real-chain-world-1)
 
