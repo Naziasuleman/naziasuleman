@@ -19,7 +19,7 @@ ABOUT ME
 </h2>
 
 <div>
-<h6 align="left">
+<p align="left">
 Hello 👋, I'm Nazia, a software engineer at <a href="https://www.staunch.co">Staunch</a> passionate about innovative solutions that enhance user experience. I'm always curious to seeking opportunities to improve my skills and looking for chances to get better at what I do.<br>
 
 • <b>Programming Languages:</b> JavaScript, TypeScript<br>
@@ -27,12 +27,11 @@ Hello 👋, I'm Nazia, a software engineer at <a href="https://www.staunch.co">S
 • <b>Back-End:</b> Node.js, Express.js, MongoDB, and GraphQL APIs<br>
 • <b>Tools:</b> Postman, Figma, Adobe Xd, Canva Pro<br><br>
 
-</h6>	
-</div>
-<div>&nbsp;</div>
 <h5 >
 My Designing Portfolio: <a href="https://www.behance.net/_naziaa">https://www.behance.net/_naziaa</a>
 </h5>
+</p>	
+</div>
 
 <div>&nbsp;</div>
 <h2 align="center">
