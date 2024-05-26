@@ -10,7 +10,7 @@ TOOLS & TECHNOLOGIES
 <!--- language icons --->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,redux,nodejs,expressjs,mongodb,postman,ubuntu,git,figma,xd" /></a></p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,redux,nodejs,expressjs,mongodb,postman,yarn,ubuntu,git,figma,xd" /></a></p>
  
 <div>&nbsp;</div>
 
