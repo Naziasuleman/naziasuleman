@@ -27,9 +27,9 @@ Hello 👋, I'm Nazia, a software engineer at <a href="https://www.staunch.co">S
 • <b>Back-End:</b> Node.js, Express.js, MongoDB, and GraphQL APIs<br>
 • <b>Tools:</b> Postman, Figma, Adobe Xd, Canva Pro<br><br>
 
-<h5 >
+<b >
 My Designing Portfolio: <a href="https://www.behance.net/_naziaa">https://www.behance.net/_naziaa</a>
-</h5>
+</b>
 </p>	
 </div>
 
