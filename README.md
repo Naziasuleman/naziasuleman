@@ -10,7 +10,7 @@ TOOLS & TECHNOLOGIES
 <!--- language icons --->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,redux,nodejs,expressjs,mongodb,postman,ubuntu,git,figma,xd" /></a></p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,redux,nodejs,expressjs,mongodb,postman,ubuntu,git,figma,xd" /></a></p>
  
 <div>&nbsp;</div>
 
@@ -20,10 +20,13 @@ ABOUT ME
 
 <div>
 <p align="left">
+Hello 👋, I'm Nazia, a software engineer at <a href="https://www.staunch.co"> passionate about innovative solutions that enhance user experience. I'm always curious to seeking opportunities to improve my skills and looking for chances to get better at what I do..<br><br>
+
+• <b>Programming Languages:</b> JavaScript, TypeScript<br>
+• <b>Front-End:</b> HTML, CSS, Bootstrap, React.js, Redux, Next.js, Tailwind, <br>
+• <b>Back-End:</b> Node.js, Express.js, MongoDB, and GraphQL APIs<br>
+• <b>Tools:</b> Postman, Figma, Adobe Xd, Canva Pro<br><br>
 
 </p>	
 </div>
-<!-- <div align="right">
-<img src="https://iili.io/Hkr7GMQ.webp" width="200" height="200"/>
-<div/> -->
 <div>&nbsp;</div>
