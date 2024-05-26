@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-![gheader]<img src="header.png"/>
+<img src="header.png"/>
 
 <div>&nbsp;</div>
 <h2 align="center">
