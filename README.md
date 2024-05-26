@@ -1,16 +1,16 @@
 <!-- HEADER -->
 
-![gheader](header.png)
+![gheader]<img src="header.png"/>
 
 <div>&nbsp;</div>
-<h1 align="center">
+<h2 align="center">
 TOOLS & TECHNOLOGIES
-</h1>
+</h2>
   
 <!--- language icons --->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js" /></a></p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,redux,nodejs,expressjs,mongodb,postman" /></a></p>
  
 <div>&nbsp;</div>
 
