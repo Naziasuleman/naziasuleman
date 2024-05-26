@@ -14,13 +14,13 @@ TOOLS & TECHNOLOGIES
  
 <div>&nbsp;</div>
 
-<h1 align="center">
+<h2 align="center">
 ABOUT ME
-</h1>
+</h2>
 
 <div>
 <p align="left">
-Hello 👋, I'm Nazia, a software engineer at <a href="https://www.staunch.co">Staunch</a> passionate about innovative solutions that enhance user experience. I'm always curious to seeking opportunities to improve my skills and looking for chances to get better at what I do..<br><br>
+Hello 👋, I'm Nazia, a software engineer at <a href="https://www.staunch.co">Staunch</a> passionate about innovative solutions that enhance user experience. I'm always curious to seeking opportunities to improve my skills and looking for chances to get better at what I do.<br>
 
 • <b>Programming Languages:</b> JavaScript, TypeScript<br>
 • <b>Front-End:</b> HTML, CSS, Bootstrap, React.js, Redux, Next.js, Tailwind, <br>
@@ -30,3 +30,20 @@ Hello 👋, I'm Nazia, a software engineer at <a href="https://www.staunch.co">S
 </p>	
 </div>
 <div>&nbsp;</div>
+<h5 >
+My Designing Portfolio: <a href="https://www.behance.net/_naziaa"></a>
+</h5>
+
+<div>&nbsp;</div>
+<h2 align="center">
+CONNECT WITH ME
+</h2>
+
+<div>
+<p align="left">
+<a href="https://www.linkedin.com/in/naziaa-0011/">
+<img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="http://twitter.com/Naziaa__">
+<img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>	
+</div>
