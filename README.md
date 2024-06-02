@@ -10,7 +10,7 @@ TOOLS & TECHNOLOGIES
 <!--- language icons --->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mantine,js,ts,react,nextjs,redux,nodejs,expressjs,mongodb,mysql,postman,yarn,ubuntu,git,github,figma,xd" /></a></p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,redux,nodejs,expressjs,mongodb,mysql,postman,yarn,ubuntu,git,github,figma,xd" /></a></p>
 
 <h2 align="center">
 ABOUT ME
@@ -23,7 +23,7 @@ So far I have the following tools in my toolkit:
 <br>
 <br>
 • <b>Programming Languages:</b> JavaScript, TypeScript<br>
-• <b>Front-End Development:</b> HTML, CSS, Bootstrap, React.js, Redux, Next.js, Tailwind,mantine <br>
+• <b>Front-End Development:</b> HTML, CSS, Bootstrap, React.js, Redux, Next.js, Tailwind <br>
 • <b>Back-End Development:</b> Node.js, Express.js, MongoDB, MySQL and GraphQL APIs<br>
 • <b>Tools:</b> Postman, Figma, Adobe Xd, Canva Pro<br><br>
 
