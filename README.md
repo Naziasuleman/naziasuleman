@@ -19,7 +19,7 @@ ABOUT ME
 <div>
 <p align="left">
 Hello 👋, I'm Nazia, a software engineer at <a href="https://www.staunch.co" target="_blank">Staunch</a> passionate about innovative solutions that enhance user experience. I'm always curious to seeking opportunities to improve my skills and looking for chances to get better at what I do.<br>
-
+So far I have the following tools in my toolkit:
 • <b>Programming Languages:</b> JavaScript, TypeScript<br>
 • <b>Front-End:</b> HTML, CSS, Bootstrap, React.js, Redux, Next.js, Tailwind, <br>
 • <b>Back-End:</b> Node.js, Express.js, MongoDB, and GraphQL APIs<br>
