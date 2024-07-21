@@ -23,7 +23,7 @@ So far I have the following tools in my toolkit:
 <br>
 <br>
 • <b>Programming Languages:</b> JavaScript, TypeScript<br>
-• <b>Front-End Development:</b> HTML, CSS, Bootstrap, Sass, React.js, Redux, Next.js, Tailwind <br>
+• <b>Front-End Development:</b> HTML, CSS, Bootstrap, Sass, React.js, Redux,Redux-persist, Next.js, Tailwind, Chart.js <br>
 • <b>Back-End Development:</b> Node.js, Express.js, MongoDB, MySQL and GraphQL APIs<br>
 • <b>Tools:</b> Postman, Figma, Adobe Xd, Canva Pro<br><br>
 
